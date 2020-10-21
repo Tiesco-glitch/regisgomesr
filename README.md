@@ -1,8 +1,6 @@
 # Regis Ribeiro
-![Twitter URL](https://img.shields.io/twitter/url?label=RegisRibeiro&logo=linkedin&style=social&url=https://www.linkedin.com/in/regis-ribeiro-427a4149/)
 
-
-### Hi there 👋
+### Hi there 👋,
 
 <!--
 **regisgomesr/regisgomesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
