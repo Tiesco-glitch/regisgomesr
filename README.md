@@ -1,5 +1,5 @@
 # Regis Ribeiro
-![Twitter URL](https://img.shields.io/twitter/url?label=RegisRibeiro&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fregis-ribeiro-427a4149%2F)
+![Twitter URL](https://img.shields.io/twitter/url?label=RegisRibeiro&logo=linkedin&style=social&url=https://www.linkedin.com/in/regis-ribeiro-427a4149/)
 
 
 ### Hi there 👋
