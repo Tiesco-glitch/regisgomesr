@@ -20,7 +20,6 @@ I'm a Full Stack developer 💻, passionate about JavaScript and TypeScript tech
 
 <br>
 <br>
-<br>
 
 ### Languages and Tools: 
 
@@ -38,13 +37,11 @@ I'm a Full Stack developer 💻, passionate about JavaScript and TypeScript tech
 
 <br>
 <br>
-<br>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=regisgomesr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 
-<br>
 <br>
 <br>
 
