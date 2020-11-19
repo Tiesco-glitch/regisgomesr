@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Regis Ribeiro 👋</b></h1>
+  <h1 align="center"><b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello there, I'm Regis Ribeiro&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></b></h1>
 </p>
 
 <p align="center">
