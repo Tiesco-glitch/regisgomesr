@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I'm Regis Ribeiro, I'm a Full Stack developer 💻, passionate about JavaScript technologies and their entire ecosystem.
 
-- 🔭 I’m currently working and studying JavaScript and TypeScript applications / systems
+- 🔭 I’m currently working and studying JavaScript and TypeScript applications
 - 🌱 I’m currently taking the BootCamp GoStack course from Rocketseat.
 - 💬 Ask me about: technology, sports and a little bit about investments.
 - ⚡ Technologies: Node, React, React-Native
